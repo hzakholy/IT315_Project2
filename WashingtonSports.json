@@ -1,0 +1,78 @@
+{
+  "WashingtonTeam":
+  [
+    {
+        "Name": "Washington Football Team",
+        "Description": "The Washington Football Team  is a professional American Football team in the National Football League. The team was formerly known as the Washington Redskins.",
+        "TeamStadium": "FedExField",
+        "TeamColors": "Burgundy & Gold",
+        "CoachName": "Ron Rivera",
+        "ChampionYear": "1982, 1987, 1991",
+        "YearFounded": "1932",
+        "Logo": "",
+        "Image": "",
+        "Website": "https://www.washingtonfootball.com"
+    },
+    {
+        "Name": "Washington Capitals",
+        "Description": "The Washington Capitals are a professional ice hockey team in the National Hockey League. The team is nicknamed the Caps.",
+        "TeamStadium": "Capital One Arena",
+        "TeamColors": "Red & White",
+        "CoachName": "Peter Laviolette",
+        "ChampionYear": "2018",
+        "YearFounded": "1974",
+        "Logo": "",
+        "Image": "",
+        "Website": "https://www.nhl.com/capitals"
+    },
+    {
+        "Name": "Washington Wizards",
+        "Description": "The Washington Wizards are a professional basketball team in the National Basketball Association. The team was formerly known as the Washington Bullets.",
+        "TeamStadium": "Capital One Arena",
+        "TeamColors": "Red, White & Navy Blue",
+        "CoachName": "Scott Brooks",
+        "ChampionYear": "1978",
+        "YearFounded": "1961",
+        "Logo": "",
+        "Image": "",
+        "Website": "https://www.nba.com/wizards/"
+    },
+    {
+        "Name": "Washington Nationals",
+        "Description": "The Washington Nationals are a professional baseball team in the Major League Baseball. The team is nicknamed the Nats.",
+        "TeamStadium": "Nationals Park",
+        "TeamColors": "Red, White & Navy Blue",
+        "CoachName": "Dave Martinez",
+        "ChampionYear": "2019",
+        "YearFounded": "2005",
+        "Logo": "",
+        "Image": "",
+        "Website": "https://www.mlb.com/nationals"
+    },
+    {
+        "Name": "Washington Mystics",
+        "Description": "The Washington Mystics are a professional women's basketball team in the Woman's National Basketball Association. The team has only won 1 championship back in 2019.",
+        "TeamStadium": "Entertainment & Sports Arena",
+        "TeamColors": "Red, White & Blue",
+        "CoachName": "Mike Thibault",
+        "ChampionYear": "2019",
+        "YearFounded": "1998",
+        "Logo": "",
+        "Image": "",
+        "Website": "https://mystics.wnba.com/"
+    },
+    {
+        "Name": "D.C. United",
+        "Description": "The D.C. United are a professional soccer team in the Major League Soccer. The team won the very first championship when the MLS first started.",
+        "TeamStadium": "Audi Field",
+        "TeamColors": "Red, White & Black",
+        "CoachName": "Ben Olsen",
+        "ChampionYear": "1996, 1997, 1999, 2004",
+        "YearFounded": "1996",
+        "Logo": "",
+        "Image": "",
+        "Website": "https://www.dcunited.com"
+    }
+  ],
+  "Status":"OK"
+}
