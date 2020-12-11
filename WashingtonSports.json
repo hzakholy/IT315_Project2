@@ -9,7 +9,7 @@
         "CoachName": "Ron Rivera",
         "ChampionYear": "1982, 1987, 1991",
         "YearFounded": "1932",
-        "Logo": "",
+        "Logo": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/WshFBLogo.png",
         "Image": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/WshFBImage.jpg",
         "Website": "https://www.washingtonfootball.com"
     },
@@ -21,7 +21,7 @@
         "CoachName": "Peter Laviolette",
         "ChampionYear": "2018",
         "YearFounded": "1974",
-        "Logo": "",
+        "Logo": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/CapsLogo.png",
         "Image": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/CapsImage.png",
         "Website": "https://www.nhl.com/capitals"
     },
@@ -33,7 +33,7 @@
         "CoachName": "Scott Brooks",
         "ChampionYear": "1978",
         "YearFounded": "1961",
-        "Logo": "",
+        "Logo": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/WizLogo.png",
         "Image": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/WizImage.jpeg",
         "Website": "https://www.nba.com/wizards/"
     },
@@ -45,7 +45,7 @@
         "CoachName": "Dave Martinez",
         "ChampionYear": "2019",
         "YearFounded": "2005",
-        "Logo": "",
+        "Logo": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/NatsLogo.png",
         "Image": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/NationalsImage.jpg",
         "Website": "https://www.mlb.com/nationals"
     },
@@ -57,7 +57,7 @@
         "CoachName": "Mike Thibault",
         "ChampionYear": "2019",
         "YearFounded": "1998",
-        "Logo": "",
+        "Logo": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/MysticLogo.png",
         "Image": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/MysticImage.jpg",
         "Website": "https://mystics.wnba.com/"
     },
@@ -69,7 +69,7 @@
         "CoachName": "Ben Olsen",
         "ChampionYear": "1996, 1997, 1999, 2004",
         "YearFounded": "1996",
-        "Logo": "",
+        "Logo": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/UnitedLogo.png",
         "Image": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/UnitedImage.jpeg",
         "Website": "https://www.dcunited.com"
     }
