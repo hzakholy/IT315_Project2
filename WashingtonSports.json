@@ -10,7 +10,7 @@
         "ChampionYear": "1982, 1987, 1991",
         "YearFounded": "1932",
         "Logo": "",
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/WshFBImage.jpg",
         "Website": "https://www.washingtonfootball.com"
     },
     {
@@ -22,7 +22,7 @@
         "ChampionYear": "2018",
         "YearFounded": "1974",
         "Logo": "",
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/CapsImage.png",
         "Website": "https://www.nhl.com/capitals"
     },
     {
@@ -34,7 +34,7 @@
         "ChampionYear": "1978",
         "YearFounded": "1961",
         "Logo": "",
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/WizImage.jpeg",
         "Website": "https://www.nba.com/wizards/"
     },
     {
@@ -46,7 +46,7 @@
         "ChampionYear": "2019",
         "YearFounded": "2005",
         "Logo": "",
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/NatsImage.jpg",
         "Website": "https://www.mlb.com/nationals"
     },
     {
@@ -58,7 +58,7 @@
         "ChampionYear": "2019",
         "YearFounded": "1998",
         "Logo": "",
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/MysticImage.jpg",
         "Website": "https://mystics.wnba.com/"
     },
     {
@@ -70,7 +70,7 @@
         "ChampionYear": "1996, 1997, 1999, 2004",
         "YearFounded": "1996",
         "Logo": "",
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/hzakholy/IT315_Project2/main/UnitedImage.jpeg",
         "Website": "https://www.dcunited.com"
     }
   ],
